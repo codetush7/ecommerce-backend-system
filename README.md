@@ -68,7 +68,6 @@ Maps Java objects to database tables.
 | Hibernate | Persistence |
 | MySQL | Database |
 | JWT | Authentication |
-| Lombok | Reduce Boilerplate |
 | JUnit 5 | Unit Testing |
 | Mockito | Mocking Framework |
 | Maven | Dependency Management |
